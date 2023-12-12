@@ -1,5 +1,10 @@
 # STX_Hydration_Equilibria
-DFT calculations for free energy of ketone hydration (dG_hydration) model across a series of saxitoxin (STX) derivatives (collaboration with the Looper Lab, University of Utah).
+DFT calculations for Gibbs free energy of ketone hydration (dG_hydration) model across a series of saxitoxin (STX) derivatives (collaboration with the Looper Lab, University of Utah).
+- All energies reported in kcal/mol
+- Final models built with dG_hydration for STX set to 0.00 kcal/mol (relative hydration energies with respect to STX).
+- Low energy conformers (LECs can be found in the original SI)
+Please cite the use of these calculations in future work with the following:
+Wenyuan, Li.; Paladugu, S.; Liles, J. P.; Karthikeyan, M.; Chase, K.; Raghuraman, S.; Sigman, M. S.; Looper, R. E. Macrocyclic Analogs of (+)-Saxitoxin: insights into the structure of Zeteketoxin AB. _manuscript in progress_.__
 -------------------------------------------------------------------------------------------------------------
 Packages & Details:
 Schrödinger MacroModel (release x)
